@@ -1,0 +1,72 @@
+$('.sajedur').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1000,
+    autoplayHoverPause:true,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        425:{
+            items:2
+        },
+        768:{
+            items:3
+        },
+        1024:{
+            items:5
+        }
+    }
+})
+
+$('.ripon').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:2000,
+    autoplayHoverPause:true,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        425:{
+            items:2
+        },
+        768:{
+            items:3
+        },
+        1024:{
+            items:5
+        }
+    }
+})
+
+$('.ripon3').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1500,
+    autoplayHoverPause:true,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        425:{
+            items:2
+        },
+        768:{
+            items:3
+        },
+        1024:{
+            items:5
+        }
+    }
+})
+
+
+
+
